@@ -1,8 +1,7 @@
-
 {
-  "name": "discord-bot",
+  "name": "full-discord-logs-bot",
   "version": "1.0.0",
-  "description": "Discord bot with voice verification",
+  "description": "بوت Discord يسجل كل شيء تقريبًا مع Keep-Alive",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
